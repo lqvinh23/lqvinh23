@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lqvinh23
-- 👀 I’m interested in Embedded sofware engineering
+- 👀 I’m interested in Embedded sofware engineering and Frontend Web Development
 - 🌱 I’m currently learning Automation and Cotrol Engineering
-- 💞️ I’m looking to collaborate on Embedded system projects
+- 💞️ I’m looking to collaborate on Embedded system projects or Website projects
 - 📫 How to reach me ...
 
 <!---
